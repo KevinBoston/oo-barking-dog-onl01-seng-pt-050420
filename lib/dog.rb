@@ -1,5 +1,9 @@
 # Your code goes here!
 Class dog {
-  .name=
+  def name
+    @name
+  end
+  def .name=
+    
   
 }
